@@ -1,3 +1,0 @@
-include *.rst *.md LICENSE
-recursive-include blib2to3 *.txt *.py
-recursive-include tests *.txt *.py
